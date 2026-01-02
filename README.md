@@ -135,7 +135,7 @@ failed_records = qc_results.get_failures(severity='ERROR')
 - [ ] Mobile app for QC issue triage and resolution
 
 ## Contact
-**Dharma Reddy Dhamodhar**  
+**Dhamodhar Reddy Atla**  
 Clinical SAS Programmer | Healthcare Data Analyst  
 📧 Email: dhamodhar1142@gmail.com  
 💼 LinkedIn: [linkedin.com/in/dhamodhar1142](https://linkedin.com/in/dhamodhar1142)  
